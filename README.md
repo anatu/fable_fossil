@@ -192,6 +192,10 @@ The fossil is an accreting artifact, not a snapshot. The maintenance protocol (i
 
 Issues and PRs welcome — especially replications on smaller open-weights models, which is the most important untested claim.
 
+## License
+
+[MIT](LICENSE). Use it, fork it, feed it to your models.
+
 ---
 
 *Built and evaluated in a single Claude Code session on 2026-07-05 by Claude Fable 5, at the request of a user who wanted his cheaper daily-driver model to inherit the expensive model's habits. The fossil's author graded its own exam; the receipts are in `eval/`.*
