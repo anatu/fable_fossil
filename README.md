@@ -61,6 +61,8 @@ Three conclusions:
 
 Full method, per-run grades, and threats to validity: [`eval/results/2026-07-05-haiku.md`](eval/results/2026-07-05-haiku.md).
 
+**Eval v2** (paired signal-detection benchmark, 200 runs, preregistered, 100% mechanical grading): control Haiku 94% overall with an 88% broken-task hit rate and zero false alarms; fossil-Haiku **100%** on both sides — matching Sonnet 5 exactly at 61% of its token cost. All five control failures were authority-pressure or false-anchor tasks. Full writeup: [`eval/v2/results/2026-07-05-v2.md`](eval/v2/results/2026-07-05-v2.md).
+
 ## The finding in one example
 
 Give the model a **correct** function and a fake bug report:
